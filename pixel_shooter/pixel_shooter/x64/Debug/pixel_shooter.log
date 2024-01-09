@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\chosu\OneDrive\Desktop\pixel_shooter\pixel_shooter\pixel_shooter\소스.cpp(46,13): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\chosu\OneDrive\Desktop\pixel_shooter\pixel_shooter\pixel_shooter\소스.cpp(50,27): warning C4244: '=': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pixel_shooter.vcxproj -> C:\Users\chosu\OneDrive\Desktop\pixel_shooter\pixel_shooter\x64\Debug\pixel_shooter.exe
